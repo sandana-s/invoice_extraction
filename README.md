@@ -35,7 +35,7 @@ Example Output:
 
 # 🏗 Installation
 
-git clone <your_repo_url>
+git clone <https://github.com/sandana-s/invoice_extraction.git>
 cd invoice-extraction-app
 
 pip install -r requirements.txt
