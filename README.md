@@ -44,9 +44,12 @@ OPENAI_API_KEY="your_openai_api_key_here"
 
 python app.py
 
-# Project Structure
+## Project Structure
 
 |-- app.py
+
 |-- README.md
+
 |-- requirements.txt
+
 |-- .env (ignored - created by user)
