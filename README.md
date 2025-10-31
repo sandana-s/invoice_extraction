@@ -35,14 +35,15 @@ Example Output:
 
 # 🏗 Installation
 
-git clone <https://github.com/sandana-s/invoice_extraction.git>
-cd invoice-extraction-app
+-git clone <https://github.com/sandana-s/invoice_extraction.git>
 
-pip install -r requirements.txt
+-cd invoice-extraction-app
+
+-pip install -r requirements.txt
 
 OPENAI_API_KEY="your_openai_api_key_here"
 
-python app.py
+-python app.py
 
 ## Project Structure
 
